@@ -70,16 +70,3 @@ for count, word in lst[:30]:
     i += 1
 
 # End of script
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
