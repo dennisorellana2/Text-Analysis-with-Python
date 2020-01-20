@@ -72,11 +72,5 @@ i = 1
 for count, word in lst[:30]:
     print('%2s.  %4s %s' % (i, count, word))
     i += 1
+    
 # End of script  
-
-
-# In[ ]:
-
-
-
-
