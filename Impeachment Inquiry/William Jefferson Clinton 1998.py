@@ -8,7 +8,7 @@
 # Based on Toby Donaldson's Python: Visual QuickStart Guide
 # function print_file_stats (location 5347)
 # with thanks to Elwyn Fleming for the starter code
-# Modified for UMUC DATA 620 by Dennis Orellana
+# Modified by Dennis Orellana
 # Last updated:  12/12/2019
 # Program to open a text file named 'William Jefferson Clinton.txt'
 # This program will give a word count of all the words in the file
