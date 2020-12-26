@@ -4,3 +4,5 @@
 
 ### Impeachment Inquiry Folder
   - These are the impeachment inquiry articles for the four U.S presidents. Text analysis was used in Jupyter notebook with python.
+  
+![](/Figures/Figure%201.png)
