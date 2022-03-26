@@ -1,4 +1,4 @@
-# Text-Analysis with Python
+# Text Analysis with Python
 
 ## These are my academic projects on text analysis using python.
 
